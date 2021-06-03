@@ -1,6 +1,6 @@
 # A Twitter Social Network Analysis of Colmex Economist
 
-Este repositorio contiene el código y datos utilizados en el [análisis de la comunidad tuitera del Colmex.](https://diego-eco.github.io/files/redes_colmex.html)
+Este repositorio contiene el código y datos utilizados en el [análisis de la comunidad tuitera del Colmex (Click para ver el análisis completo)](https://diego-eco.github.io/files/redes_colmex.html). [Click aquí para ver un resumen en Twitter](https://twitter.com/diego_lopezt/status/1400140781072130050)
 
 El código se divide en 3 Jupyter Notebooks:
 
